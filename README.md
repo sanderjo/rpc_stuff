@@ -1,7 +1,11 @@
 # rpc_stuff
 RPC Stuff
 
-Trying to get 1990's technology RCP working ...
+Trying to get 1990's technology RPC working ...
+
+# LinuxJournal
+
+Taken from https://www.linuxjournal.com/article/2204?page=0,1
 
 Make it:
 ```
