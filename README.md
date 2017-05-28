@@ -9,11 +9,12 @@ Taken from https://www.linuxjournal.com/article/2204?page=0,1
 
 # Input files
 
+```
 avg.x # the definition file for RPCGEN
 ravg.c  # The RPC client
 avg_proc.c # The RPC server (definition)
 Makefile
-
+```
 
 Make it:
 ```
